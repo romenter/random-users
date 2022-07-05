@@ -12,4 +12,8 @@ create a .env  file, and for public view, env-example;
 
 and many other functions in package js;
 
-use webpackTools and BundleAnalyzer
+used webpackTools and BundleAnalyzer;
+
+and many other functions i can't remember but you can see in the code.
+
+I don't recomend you do it, because is only practice.
