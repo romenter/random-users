@@ -10,4 +10,6 @@ ad some scripts in package.json (like watch and mode production);
 
 create a .env  file, and for public view, env-example;
 
-and many other functions in package js
+and many other functions in package js;
+
+use webpackTools and BundleAnalyzer
